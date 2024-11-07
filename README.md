@@ -1,165 +1,63 @@
-import json
-import base64
-from typing import List, Dict
-
-class GitHubProfileGenerator:
-    def __init__(self):
-        self.frames = [
-            self._create_frame_1(),
-            self._create_frame_2(),
-            self._create_frame_3(),
-            self._create_frame_4()
-        ]
-        
-    def _create_frame_1(self) -> str:
-        return '''
-```ascii
-╔══════════════════════════════════════════╗
-║     👨‍💻 Giovanny Rodríguez             ║
-║     🎓 Computer Science & Mathematics     ║
-╚══════════════════════════════════════════╝
-
-< Scrolling through my skills... >
-   \\
-    \\
-      __
-     /  \\
-    /    \\
-   |  ^_^ |
-   |      |
-   |      |
-    \\____/
-```
-'''
-
-    def _create_frame_2(self) -> str:
-        return '''
-```ascii
-╔══════════════════════════════════════════╗
-║ 🔧 Technical Skills:                      ║
-║ • Python, C++, JavaScript, MATLAB        ║
-║ • Data Science & Machine Learning        ║
-║ • Information Security                   ║
-╚══════════════════════════════════════════╝
-
-< Loading more... >
-   \\
-    \\
-     (•◡•)
-      |__|
-      |  |
-      |__|
-```
-'''
-
-    def _create_frame_3(self) -> str:
-        return '''
-```ascii
-╔══════════════════════════════════════════╗
-║ 🚀 Projects:                             ║
-║ • Explorer Transportation Data Science   ║
-║ • Grammar Checker Chrome Extension       ║
-║ • Rise of Kingdoms Bot                   ║
-╚══════════════════════════════════════════╝
-
-< Almost there... >
-   \\
-    \\
-    (づ｡◕‿‿◕｡)づ
-```
-'''
-
-    def _create_frame_4(self) -> str:
-        return '''
-```ascii
-╔══════════════════════════════════════════╗
-║ 📫 Contact:                              ║
-║ • Email: dreuxxr@gmail.com              ║
-║ • Location: Brooklyn, NY                 ║
-║ • Languages: Spanish, English            ║
-╚══════════════════════════════════════════╝
-
-< Welcome to my profile! >
-   \\
-    \\
-   (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
-```
-'''
-
-    def generate_readme(self) -> str:
-        """Generate the complete README.md content with animation."""
-        readme_content = """
 <div align="center">
 
-# ¡Hola! 👋 I'm Giovanny Rodríguez
+# ¡Hola! 👋 Soy Giovanny Rodríguez
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Mathematics+Enthusiast;Machine+Learning+Developer;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Estudiante+de+Informática;Apasionado+por+Matemáticas;Desarrollador+de+Machine+Learning;Siempre+aprendiendo+nuevas+tecnologías)
+
+---
 
 <div align="center">
-    <img src="profile-animation.gif" alt="Profile Animation" />
+    <img src="profile-animation.gif" alt="Profile Animation" width="600"/>
 </div>
 
-## 🎯 Current Focus
+---
 
-- 🎓 Studying Computer Science & Mathematics at CUNY College of Staten Island
-- 💡 Developing skills in Machine Learning and Data Science
-- 🔒 Learning about Cybersecurity
-- 🌱 Improving my English proficiency
+## 🎯 Enfoque Actual
 
-## 🛠️ Technologies & Tools
+- 🎓 Estudiante de Ciencias de la Computación y Matemáticas en **CUNY College of Staten Island**
+- 💡 Desarrollo de habilidades en **Machine Learning** y **Ciencia de Datos**
+- 🔒 Explorando el campo de la **Ciberseguridad**
+- 🌱 Mejorando mi dominio del **inglés** 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+---
 
-## 📊 GitHub Stats
+## 🛠️ Tecnologías y Herramientas
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
 
-## 🌟 Featured Projects
+---
 
-### [Explorer Transportation Data Science Project](https://nebigdatahub.org/nsdc/tdsp/)
-Advanced transportation data analysis using machine learning techniques
+## 🌟 Proyectos Destacados
 
-### [Grammar Checker Chrome Extension](https://chromewebstore.google.com/detail/grammar-checker-multi-lan/dcgfjejbncgnpgiciceafjegfiiiblpi)
-Multi-language grammar checking extension with OpenAI integration
+- **[Explorer Transportation Data Science Project](https://nebigdatahub.org/nsdc/tdsp/):** Análisis avanzado de datos de transporte utilizando técnicas de machine learning.
+- **[Grammar Checker Chrome Extension](https://chromewebstore.google.com/detail/grammar-checker-multi-lan/dcgfjejbncgnpgiciceafjegfiiiblpi):** Extensión de Chrome para corrección gramatical en múltiples idiomas con integración de OpenAI.
+- **Rise of Kingdoms Bot:** Bot automatizado para recolección de recursos con gestión de múltiples cuentas.
 
-### Rise of Kingdoms Bot
-Automated resource collection bot with multi-account management
+---
 
-## 📫 Connect with Me
+## 📊 Estadísticas de GitHub
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giovanny-rodr%C3%ADguez-)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dreuxxr@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" width="400"/>
+</div>
+
+---
+
+## 🌐 Conéctate conmigo
+
+<p>
+    <a href="https://www.linkedin.com/in/giovanny-rodr%C3%ADguez-" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:dreuxxr@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    </a>
+</p>
 
 </div>
-"""
-        return readme_content
-
-    def save_animation_frames(self, output_dir: str = "./") -> None:
-        """Save each frame as a separate file."""
-        for i, frame in enumerate(self.frames, 1):
-            with open(f"{output_dir}frame_{i}.txt", "w", encoding="utf-8") as f:
-                f.write(frame)
-
-def main():
-    # Create the generator
-    generator = GitHubProfileGenerator()
-    
-    # Generate and save the README.md
-    readme_content = generator.generate_readme()
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme_content)
-    
-    # Save animation frames
-    generator.save_animation_frames()
-    
-    print("Generated README.md and animation frames successfully!")
-    print("Note: You'll need to convert the frames to GIF using a tool like ImageMagick")
-    print("Example ImageMagick command:")
-    print("convert -delay 100 -loop 0 frame_*.txt profile-animation.gif")
-
-if __name__ == "__main__":
-    main()
-
