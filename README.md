@@ -14,7 +14,7 @@
 
 ## 🎯 Enfoque Actual
 
-- 🎓 Estudiante de Ciencias de la Computación y Matemáticas en **CUNY College of Staten Island**
+- 🎓 Estudiante de Ciencias de la Computación y Matemáticas
 - 💡 Desarrollo de habilidades en **Machine Learning** y **Ciencia de Datos**
 - 🔒 Explorando el campo de la **Ciberseguridad**
 - 🌱 Mejorando mi dominio del **inglés** 
