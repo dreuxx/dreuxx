@@ -1,6 +1,6 @@
 <div align="center">
 
-# print("¡Hola! <span style='animation: wave 2s infinite;'>👋</span> Soy Giovanny Rodríguez")
+# ¡Hola! <span style='animation: wave 2s infinite;'>👋</span> Soy Giovanny Rodríguez
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Estudiante+de+Informática;Apasionado+por+Matemáticas;Desarrollador+de+Machine+Learning;Siempre+aprendiendo)
 
