@@ -1,4 +1,4 @@
-# <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Giovanny;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+  # <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Giovanny;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
 CS & Mathematics student at CUNY Staten Island
 
