@@ -20,5 +20,5 @@ CS & Mathematics student at CUNY Staten Island
 💼 **LinkedIn**: [linkedin.com/in/giovanny](https://linkedin.com/in/giovanny)
 
 ---
-*Currently seeking Summer 2025 internships*
+*Currently seeking Summer and fall 2025-26 internships*
 
