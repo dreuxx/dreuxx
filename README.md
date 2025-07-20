@@ -5,7 +5,6 @@ CS & Mathematics student at CUNY Staten Island
 ## **Projects**
 
 - **[Grammar Checker V2](https://github.com/dreuxx/Grammar-Checker-v2-BY-ML)** - Chrome extension using mT5 for offline grammar checking (101 languages)
-- **[Rise of Kingdoms Bot](https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot)** - Automation tool using OpenCV and Python
 - **Transportation Analysis** - NYC traffic data analysis with Python
 
 ## **Skills**
