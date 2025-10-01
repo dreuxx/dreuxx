@@ -23,9 +23,6 @@ Currently pursuing a **B.S. in Computer Science & Mathematics** at CUNY, with ha
 - **Machine Learning**: Model compression (LoRA, quantization), ONNX, Transformers  
 - **Cybersecurity**: MITRE ATT&CK, pentesting, vulnerability research (IARPA HAMR Program)  
 - **Full-Stack Development**: Chrome Extensions, REST APIs, cloud deployment (AWS/GCP)
-
-Selected from the **top 8% of 2,400+ applicants** for the [IARPA HAMR Program](https://www.iarpa.gov/index.php/research-programs/hamr) — contributing to national cybersecurity defense.
-
 ---
 
 ### 🚀 Featured Projects
