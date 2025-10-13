@@ -22,8 +22,8 @@ Hi, I'm Giovanny Rodríguez, a Software and Machine Learning Engineer passionate
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 📊 Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=dreuxx&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="150"> <img src="https://nirzak-streak-stats.vercel.app/?user=dreuxx&theme=tokyonight&hide_border=true" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreuxx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=dreuxx&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true" height="150"> <img src="https://nirzak-streak-stats.vercel.app/?user=dreuxx&theme=noctis_minimus&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreuxx&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dreuxx&icon=0&color=0)](https://visitcount.itsvg.in)
