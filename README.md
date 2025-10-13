@@ -1,11 +1,11 @@
-**Hello World💫!**:
+## Hello World💫!:
 Hi, I'm Giovanny Rodríguez, a Software and Machine Learning Engineer passionate about building secure, innovative solutions from concept to deployment. Currently pursuing a B.S. in Computer Science and Mathematics at CUNY College of Staten Island, I specialize in fullstack development, machine learning optimization, and cybersecurity research.<br><br>💡 I love tackling complex challenges in ML model optimization, penetration testing, and automation. When I'm not coding, you'll find me reverse engineering binaries, fine-tuning transformers, or contributing to open source projects.<br><br>🎯 Always: Learning, building, and pushing the boundaries of what's possible with code.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovannyr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giovanny.rodriguezcv@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### 🖥️ Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -21,7 +21,7 @@ Hi, I'm Giovanny Rodríguez, a Software and Machine Learning Engineer passionate
 ### ⚡ Tools & Platforms  
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dreuxx&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dreuxx&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreuxx&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
