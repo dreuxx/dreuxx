@@ -22,8 +22,7 @@ Hi, I'm Giovanny Rodríguez, a Software and Machine Learning Engineer passionate
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dreuxx&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dreuxx&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dreuxx&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=dreuxx&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreuxx&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
